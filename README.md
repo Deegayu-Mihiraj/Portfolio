@@ -1,5 +1,7 @@
 # Deegayu Mihiraj - Personal Portfolio Website
 
+🌐 **Live Site**: [https://deegayu-mihiraj.github.io/Portfolio/](https://deegayu-mihiraj.github.io/Portfolio/)
+
 A modern, responsive personal portfolio website showcasing my journey as a BSc.Hons Information Systems student at Sabaragamuwa University of Sri Lanka.
 
 ## 🌟 About
@@ -128,6 +130,18 @@ portfolio-website/
    ```
 
 4. Visit `http://localhost:8000` to view the website
+
+## 🌍 Live Deployment
+
+This portfolio is automatically deployed using **GitHub Pages** and is accessible at:
+**[https://deegayu-mihiraj.github.io/Portfolio/](https://deegayu-mihiraj.github.io/Portfolio/)**
+
+### Deployment Details
+- **Hosting**: GitHub Pages
+- **Source**: `main`/`master` branch
+- **Auto-deploy**: Enabled on every push to main branch
+- **SSL**: Enabled (HTTPS)
+- **Custom Domain**: Available (can be configured in repository settings)
 
 ## 🌐 Browser Support
 
